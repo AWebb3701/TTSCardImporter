@@ -7,7 +7,7 @@ As I haven't figured out how to properly iterate through the files in a remote d
 Intended to be used alongside http://www.nand.it/nandeck/, which generates files with that naming convention in a local directory.
 
 To use:
-Run it in a terminal, follow the prompts. On first run it'll use your inputs to generate its own .ini file, which it will use for all further runs unless you delete it.
+Run the .jar in a terminal, follow the prompts. On first run it'll use your inputs to generate its own .ini file, which it will use for all further runs unless you delete it. When it's done it'll create a JSON in the same directory it was run from.
 
 
 Cleaning Tasks:
