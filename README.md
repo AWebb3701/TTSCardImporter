@@ -17,3 +17,6 @@ Choose a variable declaration standard, I declared them all over the place with 
 
 Feature TODO:
 Remove the need for a local mirror by iterating over the remote directory instead.
+
+Changelog:
+7/15/20 - Fixed a typo that caused the json file to have a capitalized extension, which TTS won't recognize.
